@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.jumbotron {
+  background: #f8f9fa;
+  color: #0056b3;
+  padding: 2rem 1rem;
+}
+h2 {
+  color: #063567;
+}
+
+.card {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.modal-content {
+  background-color: #f0f8ff;
+}
+.carousel-img {
+  max-width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.carousel-caption {
+  color: #21074ada;
+  font-size: 25px;
+}
+.carousel-caption h5 {
+  color: #21074ada;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.about-content {
+  text-align: justify;
+}
+.contact {
+  background-image: url(https://st3.depositphotos.com/1010613/32552/i/450/depositphotos_325526072-stock-photo-white-popular-contact-web-icons.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.contact-btn {
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 30px;
+  padding: 10px 20px;
+  font-size: 1rem;
+}
+.contact-btn:hover {
+  background-color: #0056b3;
+  color: #fff;
+}
+.modal-header {
+  background: #007bff;
+  color: #fff;
+}
+
+.modal-body {
+  background: #f8f9fa;
+}
+.form-control {
+  border-radius: 20px;
+}
+.modal-footer {
+  background: #f8f9fa;
+}
+.contact-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  padding: 10px 0;
+}
